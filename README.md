@@ -1,1 +1,0 @@
-# OpenCVGestureRecognition
